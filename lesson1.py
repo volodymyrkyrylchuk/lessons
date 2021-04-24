@@ -2,7 +2,7 @@ import time
 
 import sys
 
-
+print("Volodya pridurok blyad'")
 # def foo():
 #     for i in range(100**10):
 #         yield i
